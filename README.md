@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Hoje é dia de react, BB! \o/
+=======
+# Hoje é dia de react, BB!
+**Nosso Dontpad com algumas anotações**
+http://dontpad.com/react-simara
+>>>>>>> upstream/master
 
 Vamos aprender um dos conteúdos mais queridinhos do mercado, o react. 
 
