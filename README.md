@@ -1,4 +1,4 @@
-# Hoje é dia de react, BB!
+# Hoje é dia de react, BB! \o/
 
 Vamos aprender um dos conteúdos mais queridinhos do mercado, o react. 
 
